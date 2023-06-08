@@ -1,0 +1,16 @@
+{
+  "name": "movie-recommendation-system",
+  "version": "1.0.0",
+  "description": "A movie recommendation system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "jquery": "^3.6.0"
+  }
+}
